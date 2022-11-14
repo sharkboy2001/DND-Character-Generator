@@ -1,5 +1,3 @@
-
-
 package dnd.character.generator;
 import java.util.*;
 
