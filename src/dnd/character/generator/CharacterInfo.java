@@ -18,6 +18,6 @@ public class CharacterInfo {
     int c = rnum.nextInt(ALIGNMENT.length);
     int d = rnum.nextInt(BACKGROUND.length);
     void GenerateCharacter() {
-    System.out.println("You are a " + RACE[b] + " " + CLASSES[a] + ". Your alignment is " + ALIGNMENT[c] + " and your background is " + BACKGROUND[d]);
+    System.out.println("You are a " + RACE[b] + " " + CLASSES[a] + ". Your alignment is " + ALIGNMENT[c] + " and your background is " + BACKGROUND[d] + ".");
 }
 }
